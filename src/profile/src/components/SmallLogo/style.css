@@ -1,0 +1,32 @@
+.small-logo {
+  height: 44px;
+  width: 178px;
+}
+
+.small-logo .overlap-group {
+  height: 44px;
+  position: relative;
+}
+
+.small-logo .your-paragraph-text {
+  height: 44px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.small-logo .text-wrapper {
+  color: #346e3a;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+  width: 154px;
+}

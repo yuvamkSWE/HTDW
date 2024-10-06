@@ -1,0 +1,281 @@
+.profile {
+  background-color: #c5f1b5;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.profile .div {
+  background-color: #c5f1b5;
+  height: 1323px;
+  overflow: hidden;
+  position: relative;
+  width: 393px;
+}
+
+
+
+.profile .small-logo-instance {
+  left: 111px !important;
+  position: absolute !important;
+  top: 45px !important;
+}
+
+.profile .save-btn {
+  all: unset;
+  box-sizing: border-box;
+  height: 50px;
+  left: 78px;
+  position: absolute;
+  top: 1085px;
+  width: 239px;
+}
+
+.profile .overlap {
+  background-color: #346e3a;
+  border-radius: 20px;
+  height: 50px;
+  position: relative;
+  width: 237px;
+}
+
+.profile .text-wrapper-2 {
+  color: #fcffe2;
+  font-family: "Inter", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 209px;
+}
+
+.profile .others {
+  height: 104px;
+  left: 36px;
+  position: absolute;
+  top: 663px;
+  width: 327px;
+}
+
+.profile .div-wrapper {
+  background-color: #fbffe1;
+  border-radius: 20px;
+  height: 104px;
+  position: relative;
+  width: 325px;
+}
+
+.profile .text-wrapper-3 {
+  color: #89b58d;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 294px;
+}
+
+.profile .others-name {
+  color: #346e3a;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 627px;
+  width: 237px;
+}
+
+.profile .linkedin {
+  height: 52px;
+  left: 36px;
+  position: absolute;
+  top: 978px;
+  width: 327px;
+}
+
+.profile .overlap-2 {
+  background-color: #fbffe1;
+  border-radius: 20px;
+  height: 52px;
+  position: relative;
+  width: 325px;
+}
+
+.profile .email {
+  height: 52px;
+  left: 36px;
+  position: absolute;
+  top: 903px;
+  width: 327px;
+}
+
+.profile .input {
+  background-color: #fbffe1;
+  border: none;
+  border-radius: 20px;
+  color: #89b58d;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  padding-left: 18px;
+  position: relative;
+  width: 325px;
+}
+
+.profile .instagram {
+  height: 52px;
+  left: 33px;
+  position: absolute;
+  top: 828px;
+  width: 327px;
+}
+
+.profile .contacts-name {
+  color: #346e3a;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 792px;
+  width: 237px;
+}
+
+.profile .interests {
+  height: 104px;
+  left: 33px;
+  position: absolute;
+  top: 504px;
+  width: 327px;
+}
+
+.profile .interests-name {
+  color: #346e3a;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 468px;
+  width: 237px;
+}
+
+.profile .school {
+  height: 104px;
+  left: 33px;
+  position: absolute;
+  top: 350px;
+  width: 327px;
+}
+
+.profile .school-name {
+  color: #346e3a;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 314px;
+  width: 237px;
+}
+
+.profile .name {
+  height: 47px;
+  left: 33px;
+  position: absolute;
+  top: 248px;
+  width: 327px;
+}
+
+.profile .overlap-3 {
+  height: 47px;
+  position: relative;
+  width: 325px;
+}
+
+.profile .rectangle {
+  background-color: #fbffe1;
+  border-radius: 20px;
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 325px;
+}
+
+.profile .text-wrapper-4 {
+  color: #89b58d;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  width: 294px;
+}
+
+.profile .name-name {
+  color: #346e3a;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 211px;
+  width: 237px;
+}
+
+.profile .splice {
+  color: #000000;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 177px;
+  width: 237px;
+}
+
+.profile .text-wrapper-5 {
+  color: #346e3a;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 77px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 129px;
+  white-space: nowrap;
+  width: 237px;
+}

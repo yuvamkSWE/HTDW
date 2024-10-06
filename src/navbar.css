@@ -1,0 +1,33 @@
+
+.navbar{
+    margin-top: 40px;
+    
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    flex-direction: row;
+    width: 59%;
+    max-width: 280px;
+  }
+
+  .navbarIcon{
+    font-size: 30px;
+    color: black;
+  }
+
+  @media screen and (max-height: 1000px) {
+    .navbar {
+      margin-top: 90px;
+    }
+  }
+  @media screen and (min-height: 900px) {
+    .navbar {
+      margin-top: 30px;
+    }
+  }
+  @media screen and (max-height: 800px) {
+    .navbar {
+      margin-top: 10px;
+    }
+  }
+  
